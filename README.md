@@ -1,5 +1,5 @@
 # 💫 About Me:
-ı am currently work as a computer teacher at high school
+I am currently work as a computer teacher at high school
 
 
 # 💻 Tech Stack:
